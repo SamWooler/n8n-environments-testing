@@ -1,0 +1,15 @@
+{
+  "id": "mlthrEpaQs1jxCR6",
+  "name": "Action Network account",
+  "type": "actionNetworkApi",
+  "data": {},
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "mK5upzI7nMGDebba",
+    "projectName": "Sam Wooler <sam.wooler@n8n.io>",
+    "personalEmail": "sam.wooler@n8n.io"
+  },
+  "isGlobal": false,
+  "isResolvable": false,
+  "resolvableAllowFallback": false
+}
