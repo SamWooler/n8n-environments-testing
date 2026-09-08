@@ -13,15 +13,38 @@
       ],
       "id": "bf362e37-42db-4eeb-bc59-7f2f65bc1b6a",
       "name": "When clicking ‘Execute workflow’"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        208,
+        0
+      ],
+      "id": "4cb61fda-394a-4f6b-8126-4cdd18c7edf7",
+      "name": "No Operation, do nothing"
     }
   ],
-  "connections": {},
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
   "settings": {
     "executionOrder": "v1",
     "binaryMode": "separate"
   },
   "triggerCount": 0,
-  "versionId": "31a666e1-7569-43e4-917d-c4be69844259",
+  "versionId": "e3835314-2aab-4630-b9b7-cf26ba8b9a59",
   "owner": {
     "type": "personal",
     "projectId": "QMFMOITcSgDrHjeA",
