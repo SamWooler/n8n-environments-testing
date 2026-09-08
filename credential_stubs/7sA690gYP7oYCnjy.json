@@ -1,0 +1,15 @@
+{
+  "id": "7sA690gYP7oYCnjy",
+  "name": "Credential to Push",
+  "type": "actionNetworkApi",
+  "data": {},
+  "ownedBy": {
+    "type": "personal",
+    "projectId": "QMFMOITcSgDrHjeA",
+    "projectName": "Sam Wooler <sam.wooler@n8n.io>",
+    "personalEmail": "sam.wooler@n8n.io"
+  },
+  "isGlobal": false,
+  "isResolvable": false,
+  "resolvableAllowFallback": false
+}

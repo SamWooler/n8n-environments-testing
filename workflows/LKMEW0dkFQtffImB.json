@@ -1,0 +1,34 @@
+{
+  "id": "LKMEW0dkFQtffImB",
+  "name": "Workflow to Push",
+  "description": null,
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "29e40653-2522-4fe8-9e82-70be44c5af02",
+      "name": "When clicking ‘Execute workflow’"
+    }
+  ],
+  "connections": {},
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "triggerCount": 0,
+  "versionId": "24932057-c463-46cf-b57c-d3916f80339c",
+  "owner": {
+    "type": "personal",
+    "projectId": "QMFMOITcSgDrHjeA",
+    "projectName": "Sam Wooler <sam.wooler@n8n.io>",
+    "personalEmail": "sam.wooler@n8n.io"
+  },
+  "parentFolderId": null,
+  "isArchived": false,
+  "nodeGroups": []
+}
