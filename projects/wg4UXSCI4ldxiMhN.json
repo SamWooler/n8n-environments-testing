@@ -1,0 +1,13 @@
+{
+  "id": "wg4UXSCI4ldxiMhN",
+  "name": "Marketing",
+  "icon": null,
+  "description": null,
+  "type": "team",
+  "owner": {
+    "type": "team",
+    "teamId": "wg4UXSCI4ldxiMhN",
+    "teamName": "Marketing"
+  },
+  "variableStubs": []
+}

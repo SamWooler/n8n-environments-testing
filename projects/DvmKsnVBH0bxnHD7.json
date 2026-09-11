@@ -1,0 +1,23 @@
+{
+  "id": "DvmKsnVBH0bxnHD7",
+  "name": "Project for Roles",
+  "icon": {
+    "type": "icon",
+    "value": "layers"
+  },
+  "description": "",
+  "type": "team",
+  "owner": {
+    "type": "team",
+    "teamId": "DvmKsnVBH0bxnHD7",
+    "teamName": "Project for Roles"
+  },
+  "variableStubs": [
+    {
+      "id": "1GfOwkmwElw4vnpR",
+      "key": "Test",
+      "type": "string",
+      "value": ""
+    }
+  ]
+}
